@@ -1,0 +1,3 @@
+[submodule "scraperfc"]
+	path = scraperfc
+	url = https://github.com/kalmir/ScraperFC.git
